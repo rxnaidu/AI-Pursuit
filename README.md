@@ -1,2 +1,2 @@
 # AI-Pursuit
-Repo for AL Journey
+Repo for AI Journey
